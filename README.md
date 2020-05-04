@@ -13,3 +13,9 @@ Then got renamed to:
   https://github.com/test-nearly-safe-paths
   
 Soon we will move this to the https://github.com/Path-Check organization
+
+## Testing redirects
+* http://raw.githack.com/tripleblindmarket/test-nearly-safe-paths/develop/README.md
+
+And the CDN version:
+* http://rawcdn.githack.com/tripleblindmarket/test-nearly-safe-paths/develop/README.md
